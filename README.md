@@ -1,1 +1,1 @@
-# BowlingScores2
+This code displays the players' adjusted bowling scores and calculates their average score. The original code only contained four points per player, but I increased each player's average score by adding a fifth score in my updated code.
